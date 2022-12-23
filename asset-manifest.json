@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.eca6302f.js",
+    "static/media/BoosJob.PNG": "/portfolio/static/media/BoosJob.ffd247f5a36336a20155.PNG",
+    "static/media/MyFreeWorks.PNG": "/portfolio/static/media/MyFreeWorks.8562eb22ac3e83874712.PNG",
+    "static/media/HandyMan.PNG": "/portfolio/static/media/HandyMan.55314fbf8daebc2929a1.PNG",
+    "static/media/IFEE.PNG": "/portfolio/static/media/IFEE.206cc5b5a494ae0b1f63.PNG",
+    "static/media/MoonStore.PNG": "/portfolio/static/media/MoonStore.ef3987337c5fcf1798d7.PNG",
+    "static/media/Me.jpeg": "/portfolio/static/media/Me.e1a517da297e687116ee.jpeg",
+    "static/media/Suivi 2.PNG": "/portfolio/static/media/Suivi 2.ccf326f2bd4179af51f9.PNG",
+    "static/media/code.jpg": "/portfolio/static/media/code.52255f1e2cf28b608e0e.jpg",
+    "static/media/grab-a-coffee.jpg": "/portfolio/static/media/grab-a-coffee.de1711130488d2c60d3e.jpg",
+    "static/media/Projet CRUD.PNG": "/portfolio/static/media/Projet CRUD.df9aa919bb7224a2d93e.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.eca6302f.js.map": "/portfolio/static/js/main.eca6302f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eca6302f.js"
+  ]
+}
